@@ -1,0 +1,13 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package manejoclasesuno;
+
+
+public class Hospital {
+    String nombre;
+    int numeroCamas;
+    double presupuesto;
+}
